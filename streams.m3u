@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de",Das Erste (1080p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-id="RTL.de@HD",RTL HD
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1 tvg-id="RTLSuper.de@SD",RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de",Schlager Deluxe (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de",ONE1 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
